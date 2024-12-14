@@ -1,0 +1,147 @@
+body {
+    background-color: rgb(15, 38, 43);
+    margin: 0;
+}
+
+h1 {
+    text-transform: capitalize;
+    text-decoration: double;
+    font-size: 55px;
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 3rem;
+}
+
+textarea {
+    border: none;
+    border-bottom: 1px solid #52eded94;
+    background: transparent;
+    font-weight: 300;
+    font-size: 18px;
+    width: 100%;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 1rem;
+   
+
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #52eded94;
+    outline: none;
+    background: transparent;
+    width: 100%;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+::placeholder {
+    color: lightgray;
+}
+
+header {
+   display: grid;
+   grid-template-columns: 39% 69%;
+   width: 86%;
+   margin: auto;
+}
+
+img {
+    
+    border-radius: 165px;
+  
+    width: 52%;
+}
+
+header button {
+    border-radius: 10px;
+    outline-style: none;
+    padding:  10px 14px;
+    margin-top: 1rem;
+    background-color: rgb(147, 212, 212);
+    font-size: 15px;
+    width: 30%;
+    color: rgb(8, 1, 1);
+
+}
+
+section {
+    background-color: #0000005e;
+    text-align: center;
+    color: white;
+    margin-top: 8rem;
+    margin-bottom: 10rem;
+}
+
+section p {
+    font-size: 18px;
+}
+
+section h2 {
+    font-size: 50px;
+}
+
+.b {
+    width: 100px;
+    border-radius: 10px;
+    outline-style: none;
+    padding:  10px 14px;
+    margin-top: 1rem;
+    background-color: rgb(147, 212, 212);
+    font-size: 16px;
+    width: 10%;
+    color: rgb(8, 1, 1);
+
+
+}
+
+div h2 {
+    font-size: 40px;
+    color: white;
+    text-decoration: double;
+
+}
+
+h4 {
+    color: white;
+    font-size: 15px;
+}
+
+.yel,
+a {
+    color: peru;
+}
+
+
+footer {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: #00000054;
+    margin-bottom: 0;
+    margin-top: 100px;
+    padding: 50px;
+
+}
+div{
+    text-align: center;
+}
+.bloc2{
+    background-image: url(R.jpg);
+    text-align: center;
+    background-position: 76% 85%;
+    background-size: 100% 112%;
+    padding: 0 !important;
+}
+.form{
+    background-color: #00000063;
+    padding: 2rem 3rem ;
+}
